@@ -46,20 +46,20 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer focused 
 
 ## 🔧 Projects & Work
 
-### 🛒 **eCommerce Website**
-A full-stack eCommerce project currently in development using the MERN stack.
-- 🔗 [Live Preview](#)
+### 🛒 **MY-VIDEO-CALL Website**
+A full-stack MY-VIDEO-CALL project currently in development using the MERN stack.
+- 🔗 [Live Preview](https://my-video-call-app-jduv.onrender.com/)
 
 ### 💼 **Portfolio Website**
 A showcase of my projects, skills, and resume.
-- 🔗 [Visit Portfolio](#)
+- 🔗 [Visit Portfolio](https://sanam-chaudhary-code.github.io/my-portfolio/)
 
 ---
 
 ## 📫 Get in Touch
 - 📧 **Email:** [sanam-chaudhary-code@gmail.com](mailto:sanam-chaudhary-code@gmail.com)
-- 🔗 **LinkedIn:** [My LinkedIn](#)
-- 🌐 **Portfolio:** [Visit Portfolio](#)
+- 🔗 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/sanam-chaudhary/)
+- 🌐 **Portfolio:** [Visit Portfolio](https://sanam-chaudhary-code.github.io/my-portfolio/)
 
 ---
 
