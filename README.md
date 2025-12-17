@@ -1,131 +1,105 @@
-👋 Hi there, I'm Sanam Chaudhary
+# 👋 Hi there, I'm Sanam Chaudhary
 
-Welcome to my GitHub profile!
-I'm a Backend-focused Java Developer with hands-on experience in Node.js, Express.js, and React. I previously worked as a frontend developer and full-stack contributor, and I am now specializing in Java, Spring Boot, RESTful APIs, and database-driven backend systems, while maintaining strong full-stack knowledge.
+Welcome to my GitHub profile!  
+I'm a **Backend-focused Java Developer** with hands-on experience in **Node.js, Express.js, and React**. I previously worked as a frontend developer and full-stack contributor, and I am now specializing in **Java, Spring Boot, RESTful APIs, and database-driven backend systems**, while maintaining strong full-stack knowledge.
 
-📑 Table of Contents
+---
 
-🚀 About Me
+## 📑 Table of Contents
+- [🚀 About Me](#-about-me)
+- [💻 Technical Skills](#-technical-skills)
+- [🔧 Projects & Work](#-projects--work)
+- [📫 Get in Touch](#-get-in-touch)
 
-💻 Technical Skills
+---
 
-🔧 Projects & Work
+## 🚀 About Me
+- 🔁 Transitioning from **Frontend / Full-Stack Developer** to **Backend Developer (Java & Spring Boot)**
+- ☕ Actively building backend systems using **Java, Spring Boot, REST APIs, and MySQL**
+- 🌐 Experienced with **Node.js, Express.js, and React** for full-stack development
+- 🔗 Strong understanding of **API integration between frontend and backend**
+- 🧠 Interested in **scalable backend architecture, clean code, and system design**
+- 📚 Committed to **continuous learning and professional growth**
 
-📫 Get in Touch
+---
 
-🚀 About Me
+## 💻 Technical Skills
 
-🔁 Transitioning from Frontend / Full-Stack Developer to Backend Developer (Java & Spring Boot)
+### 🧠 Programming Languages & Databases
+- Java
+- Python
+- C
+- JavaScript
+- SQL (MySQL)
+- MongoDB
 
-☕ Actively building backend systems using Java, Spring Boot, REST APIs, and MySQL
+---
 
-🌐 Experienced with Node.js, Express.js, and React for full-stack development
+### 🔧 Backend Development
+- Spring Boot (Java)
+- RESTful API Development
+- Node.js
+- Express.js
+- Authentication & Authorization (JWT – Basics)
+- Database Design & Integration
 
-🔗 Strong understanding of API integration between frontend and backend
+---
 
-🧠 Interested in scalable backend architecture, clean code, and system design
+### 🎨 Frontend Development
+- React.js
+- HTML5 / CSS3
+- Tailwind CSS
+- Material-UI
+- Responsive Web Design
 
-📚 Committed to continuous learning and professional growth
+---
 
-💻 Technical Skills
-🧠 Programming Languages & Databases
+### 🛠️ Developer Tools & Platforms
+- Git & GitHub
+- Docker (Basics)
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+- Postman
+- Netlify / Render
 
-Java
+---
 
-Python
+## 🔧 Projects & Work
 
-C
+### 🎥 Real-Time Video Call Application
+**Tech Stack:** React.js, Node.js, Express.js, WebRTC, Socket.io  
+- Developed a real-time peer-to-peer video calling application using WebRTC  
+- Implemented signaling server using Node.js and Express.js  
+- Integrated Socket.io for real-time communication  
+- Designed responsive frontend using React.js  
 
-JavaScript
+🔗 **Live Preview:** *(Add your project link here)*
 
-SQL (MySQL)
+---
 
-MongoDB
+### 🏫 Training Management Web Application
+**Tech Stack:** React.js, Tailwind CSS, JavaScript  
+- Built a responsive training management platform  
+- Created reusable and scalable UI components  
+- Integrated frontend with backend APIs  
+- Focused on performance and clean UI design  
 
-🔧 Backend Development
+---
 
-Spring Boot (Java)
+### ☕ Spring Boot Backend Projects (Ongoing)
+**Tech Stack:** Java, Spring Boot, MySQL  
+- Developing RESTful APIs using layered architecture  
+- Implementing CRUD operations and database relationships  
+- Learning API validation, exception handling, and security  
+- Improving backend performance and maintainability  
 
-RESTful API Development
+🚀 *Repositories will be added soon*
 
-Node.js
+---
 
-Express.js
+## 📫 Get in Touch
+- 📧 **Email:** sanamchaudhary344@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/sanam-chaudhary](https://www.linkedin.com/in/sanam-chaudhary)
 
-Authentication & Authorization (JWT – Basics)
-
-Database Design & Integration
-
-🎨 Frontend Development
-
-React.js
-
-HTML5 / CSS3
-
-Tailwind CSS
-
-Material-UI
-
-Responsive Web Design
-
-🛠️ Developer Tools & Platforms
-
-Git & GitHub
-
-Docker (Basics)
-
-IntelliJ IDEA
-
-Eclipse
-
-VS Code
-
-Postman
-
-Netlify / Render
-
-🔧 Projects & Work
-🎥 Real-Time Video Call Application
-
-Tech Stack: React.js, Node.js, Express.js, WebRTC, Socket.io
-
-Developed a real-time peer-to-peer video calling application using WebRTC
-
-Implemented signaling server using Node.js and Express.js
-
-Integrated Socket.io for real-time communication
-
-Designed responsive frontend using React.js
-
-🔗 Live Preview
-
-🏫 Training Management Web Application
-
-Tech Stack: React.js, Tailwind CSS, JavaScript
-
-Built a responsive training management platform
-
-Created reusable and scalable UI components
-
-Integrated frontend with backend APIs
-
-Focused on performance and clean UI design
-
-☕ Spring Boot Backend Projects (Ongoing)
-
-Tech Stack: Java, Spring Boot, MySQL
-
-Developing RESTful APIs using layered architecture
-
-Implementing CRUD operations and database relationships
-
-Learning API validation, exception handling, and security
-
-Improving backend performance and maintainability
-(Repositories will be added soon 🚀)
-
-📫 Get in Touch
-
-📧 Email: sanamchaudhary344@gmail.com
-
-💼 LinkedIn: linkedin.com/in/sanam-chaudhary
+---
